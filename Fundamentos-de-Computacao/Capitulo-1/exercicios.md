@@ -4,7 +4,7 @@
 
 Explique o que é um código:
 
-Um código é um meio de transmitir informações.
+Código é um sistema para transferir informações entre pessoas e máquinas.
 
 # Exercício 2:
 
