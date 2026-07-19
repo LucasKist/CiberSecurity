@@ -8,3 +8,5 @@ enquanto o código "linguagem de sinais" é usado para transmitir informações 
 Todo dispositivo possui um código que permite a comunicação entre firmware, software e hardware.
 
 A palavra-chave para o Código Morse é "Dois" (ponto/traço, curto/longo). Isso remete ao código binário e é uma ótima referência para introduzir o conteúdo.
+
+Citação de Charles Petzold: "Código é um sistema para transferir informações entre pessoas e máquinas."
